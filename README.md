@@ -22,4 +22,7 @@ Built for quick customization and fast development feedback, this project is ide
 - Framer Motion
 - Small motion helper: `src/utils/motion.js`
 
+ <img width="1920" height="8145" alt="screencapture-modern-landing-page-react-and-frame-vercel-app-2025-12-27-20_09_20" src="https://github.com/user-attachments/assets/6c4e58a7-f463-4cd1-b87b-2e312c4cd501" />
+
+
 Enjoy building with it — tweak, deploy, and make it yours!
